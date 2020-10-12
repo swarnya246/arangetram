@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d2c6f83cada775352c52461155d6509",
+    "revision": "e4a958b1e231d38a6c71f73705ba9da9",
     "url": "/arangetram/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/arangetram/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "8063f34e8c39a23373d4",
-    "url": "/arangetram/static/css/main.14b0613c.chunk.css"
+    "revision": "65fba7760a2c540eff78",
+    "url": "/arangetram/static/css/main.d55fb66e.chunk.css"
   },
   {
     "revision": "9ab095e7addd0c26f3d5",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/arangetram/static/js/2.2eedfe4b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8063f34e8c39a23373d4",
-    "url": "/arangetram/static/js/main.54ef83f3.chunk.js"
+    "revision": "65fba7760a2c540eff78",
+    "url": "/arangetram/static/js/main.682eae51.chunk.js"
   },
   {
     "revision": "3745e460945c117a18be",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/arangetram/precache-manifest.4d3a6180e3708534017191a9ce6322b4.js"
+  "/arangetram/precache-manifest.61bd0b913b7a9d726e2f2ba3e36b9eb5.js"
 );
 
 self.addEventListener('message', (event) => {
