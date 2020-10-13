@@ -1,4 +1,5 @@
 # arangetram
 A website for a dancer!<br>
+Watch Swetha's arangetram :)<br>
 Design heaVILY inspired by https://file-in.web.app<br>
-Watch Swetha's arangetram :)
+Made with React JS
